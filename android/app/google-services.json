@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "868852610341",
+    "firebase_url": "https://geo-hr-default-rtdb.firebaseio.com",
+    "project_id": "geo-hr",
+    "storage_bucket": "geo-hr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868852610341:android:1d1a84484b007c0e2f96cc",
+        "android_client_info": {
+          "package_name": "com.example.geo_attendance_system_hr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868852610341-s0v4oqmt1qqisg32nd2k53nt6vpblgks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsjIGOS41CZD8lIt3pKfTlt9BasC7yALs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868852610341-s0v4oqmt1qqisg32nd2k53nt6vpblgks.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868852610341-hvr7fh4p8imcp7l2u44vcop7jpbbr64h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "example.com.geoAttendanceSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
